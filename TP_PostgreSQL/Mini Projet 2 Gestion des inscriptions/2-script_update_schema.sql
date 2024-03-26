@@ -1,0 +1,2 @@
+-- Renommage du schéma "I_NOTE" par "I_SCOLARITE"
+ALTER SCHEMA "I_NOTE" RENAME TO "I_SCOLARITE";
